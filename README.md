@@ -2,6 +2,8 @@
 
 ## 1. Setup
 
+For inference part only, install best trained model via [this link](https://drive.google.com/drive/folders/1Svew4M6rAXEmxzAUgsQcXQ1BvjSs1ci5?usp=sharing).
+
 Install the dependencies with:
 
 ```bash
