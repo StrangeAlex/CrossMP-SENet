@@ -4,5 +4,6 @@ matplotlib==3.10.3
 numpy==2.3.1
 pesq==0.0.4
 rich==14.0.0
+scipy==1.16.0
 soundfile==0.12.1
 torch==2.2.2
